@@ -1,1 +1,3 @@
 ini dari git remote
+
+ini dari git clone
