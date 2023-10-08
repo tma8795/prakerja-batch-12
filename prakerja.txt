@@ -2,3 +2,5 @@ ini dari git remote
 
 ini dari git clone
 init dari gitclone
+
+conflict b
